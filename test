@@ -1,0 +1,8 @@
+        # data = web.data()
+    # def GET(self, clientTime):
+    #     # web.header('content-type', 'text/json')
+    #     # return json.dumps({'id':1 ,'foo': 'hell world'})
+    #     if not clientTime:
+    #         clientTime = datetime.datetime.now()
+    #         return 123
+    #     return business.test(clientTime)

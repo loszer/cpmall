@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - cpmall@localhost" uuid="63aab623-3b71-47cd-a3ab-c92bd9d5f773">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>cpmall.*</schema-pattern>
+      <default-schemas>cpmall.*</default-schemas>
+    </data-source>
+  </component>
+</project>
