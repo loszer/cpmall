@@ -28,89 +28,7 @@
     <favorites_list name="cpmall" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="code.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webapi.py" pinned="false" current-in-tab="true">
-        <entry file="file://C:/Python27/Lib/site-packages/web/webapi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="336" column="4" selection-start-line="336" selection-start-column="4" selection-end-line="336" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="business.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/business.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-454">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <marker date="1474207468599" expanded="true" signature="196:265" ph="SELECT kaipa... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="494:563" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="887:916" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="887:922" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="887:933" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="887:961" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="887:963" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="962:963" ph="SELECT id, a... questions" />
-                <marker date="1474207468599" expanded="true" signature="1093:1204" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="1287:1382" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="1439:3157" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="1723:1750" ph="UPDATE cp_ka... " />
-                <marker date="1474207468599" expanded="true" signature="1723:1800" ph="UPDATE cp_ka... " />
-                <marker date="1474207468599" expanded="true" signature="2151:2273" ph="UPDATE cp_ka... " />
-                <marker date="1474207468599" expanded="true" signature="2177:2212" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="2177:2258" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="2357:2409" ph="UPDATE cp_ka... " />
-                <marker date="1474207468599" expanded="true" signature="2357:2421" ph="UPDATE cp_ka... " />
-                <marker date="1474207468599" expanded="true" signature="2357:2449" ph="UPDATE cp_ka... " />
-                <marker date="1474207468599" expanded="true" signature="2523:2536" ph="SELECT * FRO... " />
-                <marker date="1474207468599" expanded="true" signature="2523:2552" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="2523:2560" ph="SELECT * FRO... cp_kaipanbjpk10" />
-                <marker date="1474207468599" expanded="true" signature="2967:3098" ph="UPDATE cp_ka... " />
-                <marker date="1474207468599" expanded="true" signature="2967:3103" ph="UPDATE cp_ka... " />
-                <marker date="1474207468599" expanded="true" signature="2967:3130" ph="UPDATE cp_ka... " />
-                <marker date="1474207468599" expanded="true" signature="2967:3131" ph="UPDATE cp_ka... " />
-                <marker date="1474207468599" expanded="true" signature="2967:3157" ph="UPDATE cp_ka... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -170,7 +88,14 @@
     <panes>
       <pane id="Scratches" />
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpmall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
@@ -413,7 +338,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="877" y="10" width="960" height="1040" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2688889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5299296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -424,7 +349,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36734694" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3677639" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -472,10 +397,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/web/webapi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="328" column="29" selection-start-line="327" selection-start-column="7" selection-end-line="328" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/business.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-454">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="901">
+          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
             <marker date="1474207468599" expanded="true" signature="196:265" ph="SELECT kaipa... cp_kaipanbjpk10" />
@@ -527,19 +460,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/web/webapi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="336" column="4" selection-start-line="336" selection-start-column="4" selection-end-line="336" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
